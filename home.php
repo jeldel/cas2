@@ -114,7 +114,7 @@
                                 </div>
                                 <div class="col-md-12">
                                 <div class="form-group">
-                                    <label for="">Datum</label>
+                                    <label for="">Datum kolokvijuma</label>
                                     <input type="date"  style="border: 1px solid black" name="datum" class="form-control"/>
                                 </div>
                                 </div>
